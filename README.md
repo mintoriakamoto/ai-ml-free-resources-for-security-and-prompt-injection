@@ -36,6 +36,7 @@ Before diving into AI/ML pentesting, ensure you have the following foundation:
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free, hands-on web security training (XSS, SQLi, SSRF, etc.)
 - [TryHackMe — Pre-Security Path](https://tryhackme.com/path/outline/presecurity)
 - [HackTheBox Academy](https://academy.hackthebox.com/)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 ### Programming (Python is essential)
