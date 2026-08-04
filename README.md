@@ -259,6 +259,7 @@ This provides a deterministic way to bound blast radius. Read: [Meta — Practic
 | CrowdStrike AI Unlocked | Agent-focused prompt injection challenges by CrowdStrike (Feb 2026) | [crowdstrike.com](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/) |
 | AI/LLM Exploitation Challenges | AI, ML, LLM CTF challenges | [8ksec.io](https://academy.8ksec.io/course/ai-exploitation-challenges) |
 | LLMVault | Hands-on CTF-style LLM security lab with intentionally vulnerable challenges aligned to the OWASP Top 10 for LLM Applications | [github.com/CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) |
+| Jackpot | Ten floor casino, each floor a deliberately broken AI, one per OWASP LLM Top 10 category. Judged server side, no signup | [hego.red/jackpot](https://hego.red/jackpot) |
 
 ### 5.2 Vulnerable-by-Design Projects
 
